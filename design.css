@@ -1,0 +1,32 @@
+.navbar-color {
+  background: rgb(240, 203, 192);
+}
+
+main {
+  max-width: 1000px;
+  margin: auto;
+  padding: 5%;
+  background: #f1f1f1;
+  text-align: center;
+}
+
+img {
+  height: 350px;
+  width: 480px;
+}
+
+figcaption{
+  font-style: oblique;
+}
+
+h2 {
+  margin-top: 50px;
+}
+
+aside {
+  font-size: 14px;
+}
+
+footer {
+  margin-top: 20px;
+}
